@@ -24,5 +24,5 @@ while guess != secrete_number and guess != "exit":
         print("Too high")
     else:
         print("Right!")
-        print("You took only", c, "tries!")
+        print("You took only", count, "tries!")
 
